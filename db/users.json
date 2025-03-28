@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Kunal Jain",
+      "email": "kunalj@xyz.com",
+      "password": "$2b$10$a3GPw9QMFc6PXZb4egoPaOjgz6PInHRfyGD8MSc.ep0iJjMPzXX5C",
+      "id": "c48e749f",
+      "preferences": [
+        "Music",
+        "Sports"
+      ]
+    },
+    {
+      "name": "John Doe",
+      "email": "john@abc.com",
+      "password": "$2b$10$ujOzSBnY.LKnLJQAdWmyyuLK3sp2N0EuFoV1krehONZUqdqFWOLWO",
+      "id": "72849bbc",
+      "preferences": []
+    },
+    {
+      "name": "John Doe",
+      "email": "john@abc.co.in",
+      "password": "$2b$10$QF5YLfhdPfiOf4flCvPoOOOCgcmZ0XxduenmBVbLHW4XLHerY8v4y",
+      "id": "4a829660",
+      "preferences": [
+        "movies",
+        "comics",
+        "games"
+      ]
+    },
+    {
+      "name": "Clark Kent",
+      "email": "clark@superman.com",
+      "password": "$2b$10$cbc2Tg21IO.DL4KQvq5v7uA1q0WZZE3Vi.J58sVEorn4z7Gw96lBa",
+      "preferences": [
+        "movies",
+        "comics"
+      ],
+      "id": "fa84e5c6"
+    },
+    {
+      "name": "John Doe",
+      "email": "john.new+0.15978939364923517@abc.co.uk",
+      "password": "$2b$10$7ByMf3KPvwso9kYGFrbHS.BxyKt/4PunqlOuE3TkRNSYm2bNDkGBi",
+      "id": "1ebd948a",
+      "preferences": []
+    },
+    {
+      "name": "John Doe",
+      "email": "john.new+77.5942621059387@abc.co.uk",
+      "password": "$2b$10$sKGgo7pXmNsPwpME0tLlLeQVKzynKEaBW5QKd1eYsdUzmCyfWY6oi",
+      "id": "0aba2431",
+      "preferences": []
+    },
+    {
+      "name": "John Doe",
+      "email": "john.new+10.515151623076724@abc.co.uk",
+      "password": "$2b$10$xjTpDFUGFG08tV05ZdUFM.6rpM76AQDPS5bYh5zX9sGHFhkp4Yjli",
+      "id": "69c77244",
+      "preferences": []
+    },
+    {
+      "name": "John Doe",
+      "email": "john.new+6.049214418714244@abc.co.uk",
+      "password": "$2b$10$8vPiFjVPUgjR6DoV.J712uXsNR1pPW.bZ0L5fcHTbMiEh0mFlG0Ji",
+      "id": "170075c9",
+      "preferences": []
+    },
+    {
+      "name": "John Doe",
+      "email": "john.new+64.01685061901486@abc.co.uk",
+      "password": "$2b$10$aUxtdsqULjJdx4.9fGF0xOXTcnwXNq4whbiktj06c9m3Cdnr7wzn.",
+      "id": "bd30edec",
+      "preferences": []
+    },
+    {
+      "name": "John Doe",
+      "email": "john@abc.co.uk",
+      "password": "$2b$10$Y8DscY9rvSuQG9myannJauJH3EeLy7pguUF7NODbAVKUV1Q2VrzX6",
+      "id": "77291bf5",
+      "preferences": []
+    }
+  ]
+}
