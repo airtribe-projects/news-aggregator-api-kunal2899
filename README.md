@@ -172,6 +172,21 @@ npm test
 
 ---
 
+## Testing the API
+
+### 1. Using Postman
+
+- For the Postman collection of the Tasks API, you can find the `news-api.postman-collection.json` file in the root folder.
+- Simply import this collection into Postman, and you'll have all the API endpoints ready to test.
+    
+
+### 2. Using `curl`
+
+- Run the example `curl` commands on terminal provided for each endpoint in the **API Endpoints** section.
+    
+
+---
+
 ## Project Structure
 
 ```
